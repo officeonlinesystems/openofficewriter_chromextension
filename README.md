@@ -1,2 +1,4 @@
-# openofficewriter_chromextension
-OpenOffice Writer online for Word documents
+LibreOffice Editor
+========================
+
+Chrome Extension for creating and editing documents 
